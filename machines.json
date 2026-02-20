@@ -1,0 +1,13 @@
+
+[
+  {
+    "nome": "Bambu Lab A1 Mini",
+    "custo_investimento": 5000,
+    "vida_util_horas": 10000
+  },
+  {
+    "nome": "K2 Plus",
+    "custo_investimento": 11000,
+    "vida_util_horas": 10000
+  }
+]

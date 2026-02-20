@@ -1,0 +1,51 @@
+
+[
+  {
+    "tipo": "chaveiro",
+    "tamanho_cm": 5,
+    "peso_g": 10,
+    "material": "PLA",
+    "tempo_impressao_h": 0.8,
+    "valor_cobrado": 15
+  },
+  {
+    "tipo": "chaveiro",
+    "tamanho_cm": 8,
+    "peso_g": 12,
+    "material": "PLA",
+    "tempo_impressao_h": 1.2,
+    "valor_cobrado": 25
+  },
+  {
+    "tipo": "boneco",
+    "tamanho_cm": 12,
+    "peso_g": 85,
+    "material": "PLA",
+    "tempo_impressao_h": 6.5,
+    "valor_cobrado": 120
+  },
+  {
+    "tipo": "boneco",
+    "tamanho_cm": 15,
+    "peso_g": 110,
+    "material": "PETG",
+    "tempo_impressao_h": 8.0,
+    "valor_cobrado": 160
+  },
+  {
+    "tipo": "peça técnica",
+    "tamanho_cm": 10,
+    "peso_g": 45,
+    "material": "PETG",
+    "tempo_impressao_h": 3.5,
+    "valor_cobrado": 85
+  },
+  {
+    "tipo": "peça técnica",
+    "tamanho_cm": 22,
+    "peso_g": 180,
+    "material": "ABS",
+    "tempo_impressao_h": 14.0,
+    "valor_cobrado": 320
+  }
+]

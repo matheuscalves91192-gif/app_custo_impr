@@ -1,0 +1,7 @@
+{
+  "name": "Calculadora 3D Pro",
+  "description": "Uma calculadora inteligente de orçamento para impressão 3D, com estimativas via IA para peças personalizadas, chaveiros e componentes técnicos.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
